@@ -1,4 +1,3 @@
-import os,time
-os.system('clear')
-os.system('xdg-open https://facebook.com/groups/351076900316263/')
+import os,time                                  os.system('clear')
+os.system('xdg-open https://www.facebook.com/AR>
 from hhn_enc import hhn_enc
